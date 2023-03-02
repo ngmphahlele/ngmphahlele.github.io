@@ -51,16 +51,16 @@ body {
   margin-left: 10px;
 }
 
+.connect{
+  display: flex;
+  align-items: center;
+}
+
 .image {
   height: 30px;
   width: 30px;
   border-radius: 50%;
-}
-
-.text {
-  font-size: 15px;
-  text-align: center;
-  color:antiquewhite;
+  margin-left: 10px;
 }
 
 .aboutme-ng {
